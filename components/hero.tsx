@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 import { Button } from './ui/button'
-import { PhoneCall, Play, TicketCheck } from 'lucide-react'
+import { PhoneCall, TicketCheck } from 'lucide-react'
 
 const Hero = () => {
     return (
@@ -32,20 +32,24 @@ const Hero = () => {
                                 deliver quality service, safety, and reliability.
                             </p>
                             <div className="flex flex-wrap gap-4">
-                                <Button
-                                    size="lg"
-                                    className="rounded-full bg-gradient-to-r from-blue-600 to-blue-500 text-white shadow-lg transition-all hover:shadow-blue-300/30"
-                                >
-                                    Get Free Quote
-                                </Button>
-                                <Button
-                                    variant="outline"
-                                    size="lg"
-                                    className="rounded-full border-blue-200 bg-white/80 backdrop-blur-sm"
-                                >
-                                    <PhoneCall className="mr-2 h-4 w-4 text-blue-600" />
-                                    Call Us
-                                </Button>
+                                <a href="mailto:dan@coolelectric.net">
+                                    <Button
+                                        size="lg"
+                                        className="rounded-full bg-gradient-to-r from-blue-600 to-blue-500 text-white shadow-lg transition-all hover:shadow-blue-300/30"
+                                    >
+                                        Get Free Quote
+                                    </Button>
+                                </a>
+                                <a href="tel:5304440502">
+                                    <Button
+                                        variant="outline"
+                                        size="lg"
+                                        className="rounded-full border-blue-200 bg-white/80 backdrop-blur-sm"
+                                    >
+                                        <PhoneCall className="mr-2 h-4 w-4 text-blue-600" />
+                                        Call Us
+                                    </Button>
+                                </a>
                             </div>
                             <div className="flex items-center gap-6 pt-4">
                                 <div className="flex -space-x-2">

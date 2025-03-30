@@ -102,16 +102,20 @@ export function Header() {
                 >
                   Contact
                 </Link>
-                <Button className="mt-4 rounded-full bg-gradient-to-r from-blue-600 to-blue-500 text-white">
-                  Contact US
-                </Button>
+                <a href="tel:5304440502">
+                  <Button className="mt-4 rounded-full bg-gradient-to-r from-blue-600 to-blue-500 text-white">
+                    Contact US
+                  </Button>
+                </a>
               </nav>
             </SheetContent>
           </Sheet>
         ) : (
-          <Button className="rounded-full bg-gradient-to-r from-blue-600 to-blue-500 text-white shadow-md transition-all hover:shadow-lg hover:shadow-blue-300/30">
-            Contact Us
-          </Button>
+          <a href="tel:5304440502">
+            <Button className="rounded-full bg-gradient-to-r from-blue-600 to-blue-500 text-white shadow-md transition-all hover:shadow-lg hover:shadow-blue-300/30">
+              Contact Us
+            </Button>
+          </a>
         )}
       </div>
     </header>
