@@ -10,8 +10,8 @@ export function Footer() {
           <div>
             <Link href="/" className="mb-6 inline-block">
               <Image
-                src="/images/cool-electric-logo.png"
-                alt="Cool Electric Logo"
+                src="/images/champak-electric-logo.png"
+                alt="Champak Electric Logo"
                 width={150}
                 height={60}
                 className="bg-white p-2 rounded-lg"
@@ -99,7 +99,7 @@ export function Footer() {
                 >
                   <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z" />
                 </svg>
-                <span className="text-gray-400">(530) 444-0502</span>
+                <span className="text-gray-400">(123) 456-7890</span>
               </li>
               <li className="flex items-start gap-3">
                 <svg
@@ -117,7 +117,7 @@ export function Footer() {
                   <rect width="20" height="16" x="2" y="4" rx="2" />
                   <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" />
                 </svg>
-                <span className="text-gray-400">dan@coolelectric.net</span>
+                <span className="text-gray-400">me@electric.com</span>
               </li>
               <li className="flex items-start gap-3">
                 <svg
@@ -147,7 +147,7 @@ export function Footer() {
         <div className="mt-12 border-t border-gray-800 pt-8">
           <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
             <p className="text-center text-sm text-gray-500 md:text-left">
-              &copy; {new Date().getFullYear()} Cool Electric. All rights reserved.
+              &copy; {new Date().getFullYear()} Champak Electric. All rights reserved.
             </p>
             <div className="flex gap-6 text-sm text-gray-500">
               <Link href="#" className="hover:text-gray-400">

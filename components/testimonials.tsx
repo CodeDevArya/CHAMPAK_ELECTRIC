@@ -52,7 +52,7 @@ export function Testimonials() {
               ))}
             </div>
             <p className="text-muted-foreground">
-              "The team at Cool Electric was professional and efficient. They fixed our electrical issues quickly and
+              "The team at Champak Electric was professional and efficient. They fixed our electrical issues quickly and
               explained everything clearly. I'll definitely use their services again!"
             </p>
           </Card>
@@ -93,7 +93,7 @@ export function Testimonials() {
               ))}
             </div>
             <p className="text-muted-foreground">
-              "We had a major electrical upgrade for our restaurant, and Cool Electric handled it perfectly. Their team
+              "We had a major electrical upgrade for our restaurant, and Champak Electric handled it perfectly. Their team
               worked after hours to minimize disruption to our business. Highly recommended!"
             </p>
           </Card>
@@ -134,7 +134,7 @@ export function Testimonials() {
               ))}
             </div>
             <p className="text-muted-foreground">
-              "As a property manager, I need reliable contractors. Cool Electric has been our go-to for electrical work
+              "As a property manager, I need reliable contractors. Champak Electric has been our go-to for electrical work
               across multiple properties. They're always on time, on budget, and do quality work."
             </p>
           </Card>

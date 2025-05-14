@@ -9,7 +9,7 @@ const About = () => {
     <div className="container">
       <div className="mx-auto mb-16 max-w-2xl text-center">
         <div className="mb-4 inline-block rounded-full bg-blue-100 px-4 py-1.5 text-sm font-medium text-blue-800">
-          About Cool Electric
+          About Champak Electric
         </div>
         <h2 className="mb-4 text-3xl font-bold md:text-4xl">Your Trusted Electrical Partner</h2>
         <p className="text-lg text-muted-foreground">
@@ -47,7 +47,7 @@ const About = () => {
         <div className="flex flex-col justify-center space-y-6">
           <h3 className="text-2xl font-bold">Our Story</h3>
           <p className="text-muted-foreground">
-            Cool Electric was founded in 2005 with a simple mission: to provide reliable, high-quality electrical
+            Champak Electric was founded in 2005 with a simple mission: to provide reliable, high-quality electrical
             services that prioritize safety and customer satisfaction. What started as a small team has grown into
             a trusted electrical contractor serving both residential and commercial clients.
           </p>

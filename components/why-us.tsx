@@ -10,7 +10,7 @@ const WhyUS = () => {
             Why Choose Us
           </div>
           <h2 className="mb-4 text-3xl font-bold md:text-4xl">
-            The Cool Electric Difference
+            The Champak Electric Difference
           </h2>
           <p className="text-lg text-muted-foreground">
             We combine technical expertise with exceptional customer service to

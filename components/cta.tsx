@@ -115,7 +115,7 @@ const Cta = () => {
                   </div>
                   <div>
                     <p className="font-medium">Our Location</p>
-                    <p className="text-muted-foreground">1881 Wild Cat Ct. Cool, CA 95614 USA</p>
+                    <p className="text-muted-foreground">1881 Wild Cat Ct. San Francisco, CA 95614 USA</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -137,7 +137,7 @@ const Cta = () => {
                   </div>
                   <div>
                     <p className="font-medium">Phone Number</p>
-                    <p className="text-muted-foreground">(530) 444-0502</p>
+                    <p className="text-muted-foreground">(123) 456-7890</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -160,7 +160,7 @@ const Cta = () => {
                   </div>
                   <div>
                     <p className="font-medium">Email Address</p>
-                    <p className="text-muted-foreground">dan@coolelectric.net</p>
+                    <p className="text-muted-foreground">me@electric.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">

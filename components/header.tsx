@@ -16,7 +16,7 @@ export function Header() {
       <div className="container flex h-20 items-center justify-between">
         <div className="flex items-center gap-8">
           <Link href="/" className="flex items-center">
-            <Image src="/images/cool-electric-logo.png" alt="Cool Electric Logo" width={150} height={60} priority />
+            <Image src="/images/transparent-logo.png" alt="Champak Electric Logo" width={150} height={60} priority />
           </Link>
           {!isMobile && (
             <nav className="flex gap-8">
@@ -63,7 +63,7 @@ export function Header() {
             </SheetTrigger>
             <SheetContent side="right">
               <div className="flex justify-center py-4">
-                <Image src="/images/cool-electric-logo.png" alt="Cool Electric Logo" width={120} height={48} />
+                <Image src="/images/transparent-logo.png" alt="Champak Electric Logo" width={120} height={48} />
               </div>
               <nav className="mt-8 flex flex-col gap-6">
                 <Link href="#home" className="font-medium text-blue-600 transition-colors hover:text-blue-800">
@@ -102,7 +102,7 @@ export function Header() {
                 >
                   Contact
                 </Link>
-                <a href="tel:5304440502">
+                <a href="tel:0000000000">
                   <Button className="mt-4 rounded-full bg-gradient-to-r from-blue-600 to-blue-500 text-white">
                     Contact US
                   </Button>
@@ -111,7 +111,7 @@ export function Header() {
             </SheetContent>
           </Sheet>
         ) : (
-          <a href="tel:5304440502">
+          <a href="tel:0000000000">
             <Button className="rounded-full bg-gradient-to-r from-blue-600 to-blue-500 text-white shadow-md transition-all hover:shadow-lg hover:shadow-blue-300/30">
               Contact Us
             </Button>

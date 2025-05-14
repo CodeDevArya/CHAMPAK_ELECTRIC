@@ -32,7 +32,7 @@ const Hero = () => {
                                 deliver quality service, safety, and reliability.
                             </p>
                             <div className="flex flex-wrap gap-4">
-                                <a href="mailto:dan@coolelectric.net">
+                                <a href="mailto:me@electric.com">
                                     <Button
                                         size="lg"
                                         className="rounded-full bg-gradient-to-r from-blue-600 to-blue-500 text-white shadow-lg transition-all hover:shadow-blue-300/30"
@@ -40,7 +40,7 @@ const Hero = () => {
                                         Get Free Quote
                                     </Button>
                                 </a>
-                                <a href="tel:5304440502">
+                                <a href="tel:0000000000">
                                     <Button
                                         variant="outline"
                                         size="lg"
